@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 6
+img: electronics.png
+alt: image-alt
+category: Electronic Gadgets & Accessories
+description: Discover a world of innovative and practical electronic gadgets and accessories that will revolutionize the way you live and interact with technology. From cutting-edge smart home devices to versatile portable gadgets, our collection offers a range of solutions designed to simplify your life and elevate your digital experience. Stay ahead of the curve with these must-have gadgets that seamlessly blend functionality and convenience.
+---

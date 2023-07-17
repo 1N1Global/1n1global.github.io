@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 5
+img: diy.png
+alt: image-alt
+category: DIY
+description: Unleash your creativity with our DIY section, where you'll find everything you need to bring your imaginative ideas to life. From craft supplies and tools to step-by-step project guides, we have a vast selection to inspire DIY enthusiasts of all ages. Whether you're a beginner or a seasoned DIYer, get ready to embark on exciting projects and enjoy the satisfaction of making something truly special with your own hands.
+---

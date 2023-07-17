@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 4
+img: home-decor.png
+alt: image-alt
+category: Home Decor
+description: Transform your living space into a haven of style and comfort with our exquisite home decor collection. Discover a wide range of tastefully curated pieces, from elegant furniture and eye-catching wall art to cozy textiles and statement accessories. Let your personal style shine as you create a warm and inviting atmosphere that truly reflects your unique taste and personality.
+---

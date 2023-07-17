@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 3
+img: car-accessories.png
+alt: image-alt
+category: Car Accessories
+description: Enhance your driving experience with our range of car accessories and innovative items. From high-tech gadgets that transform your car into a smart vehicle to practical and stylish accessories that add convenience and flair, we have everything you need to upgrade your ride. Discover the latest innovations designed to make your time on the road safer, more comfortable, and more enjoyable.
+---

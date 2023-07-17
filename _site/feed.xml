@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2023-07-18T10:35:11+05:30</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">1N1 Global</title>
+  
+
+  
+    <subtitle>1N1 Global is a brand engaged in import-export and e-commerce business, dealing in a diverse range of products including kids’ clothing and toys, electronics gadgets, food products, and agri products.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Project 1</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 1" />
+      <published>2014-07-18T00:00:00+05:30</published>
+      <updated>2014-07-18T00:00:00+05:30</updated>
+      <id>http://localhost:4000/project-1</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Kids Clothing" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 2</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 2" />
+      <published>2014-07-17T00:00:00+05:30</published>
+      <updated>2014-07-17T00:00:00+05:30</updated>
+      <id>http://localhost:4000/project-2</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Kids Toys" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 3</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 3" />
+      <published>2014-07-16T00:00:00+05:30</published>
+      <updated>2014-07-16T00:00:00+05:30</updated>
+      <id>http://localhost:4000/project-3</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Car Accessories" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 4</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 4" />
+      <published>2014-07-15T00:00:00+05:30</published>
+      <updated>2014-07-15T00:00:00+05:30</updated>
+      <id>http://localhost:4000/project-4</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Home Decor" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 5</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 5" />
+      <published>2014-07-14T00:00:00+05:30</published>
+      <updated>2014-07-14T00:00:00+05:30</updated>
+      <id>http://localhost:4000/project-5</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="DIY" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 6</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 6" />
+      <published>2014-07-13T00:00:00+05:30</published>
+      <updated>2014-07-13T00:00:00+05:30</updated>
+      <id>http://localhost:4000/project-6</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Electronic Gadgets &amp; Accessories" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

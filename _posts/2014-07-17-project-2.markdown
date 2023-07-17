@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 2
+img: kids-toys.png
+alt: image-alt
+category: Kids Toys
+description: Explore our collection of innovative and educational kids toys, designed to ignite curiosity and foster learning through play. From interactive puzzles and building sets to engaging STEM kits and imaginative playsets, these toys provide endless hours of fun while developing essential skills and sparking creativity in young minds. Discover the perfect blend of entertainment and education for your little ones today!
+---

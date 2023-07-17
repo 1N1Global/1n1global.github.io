@@ -1,0 +1,67 @@
+# Site settings
+title: 1N1 Global
+email: the.1n1global@gmail.com
+url: https://github.com/1n1global/1n1global-theme
+description: "1N1 Global is a brand engaged in import-export and e-commerce business, dealing in a diverse range of products including kids’ clothing and toys, electronics gadgets, food products, and agri products."
+keywords: "1n1 global, ecommerce, amazon india, flipkart, walmart"
+skills: "Welcome to 1N1 Global - Your One-stop shop for seamless e-commerce solutions!"
+meta_author: 1N1 Global
+
+#Plugins
+plugins:
+  - "jekyll-seo-tag"
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 3f3f3f #D3D3D3
+  primary-rgb: "63,63,63" #"128,179,255"
+  secondary: 2a2a2a #FD6E8A
+  secondary-dark: 151515 #A2122F
+
+# Footer settings
+footer:
+  copyright: 1N1 Global
+  location: Location
+  social: Around the Web
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/1n1global
+  - title: linkedin
+    url: http://linkedin.com/company/1n1global
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Kopargaon
+  - line: Maharashtra, India 423 601
+
+# Credits content
+credits: '1n1global'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""

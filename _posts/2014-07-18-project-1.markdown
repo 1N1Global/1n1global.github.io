@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 1
+img: kids-cloth.png
+alt: image-alt
+category: Kids Clothing
+description: Welcome to our vibrant and playful kids clothing section, where you'll find a delightful assortment of comfortable and stylish outfits that are perfect for your little ones. Discover a world of colorful and trendy options that will make them look adorable while keeping them cozy and happy.
+---
